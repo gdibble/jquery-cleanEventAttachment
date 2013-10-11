@@ -1,0 +1,35 @@
+{
+  "name": "jquery-cleanEventAttachment",
+  "title": "jQuery cleanEventAttachment",
+  "description": "jQuery plug-in to disattach and attach event handlers in one shortcut function",
+  "keywords": [
+    "jQuery",
+    "bind",
+    "unbind"
+  ],
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gdibble/jquery-cleanEventAttachment.git"
+  },
+  "homepage": "https://github.com/gdibble/jquery-cleanEventAttachment",
+  "docs": "https://github.com/gdibble/jquery-cleanEventAttachment",
+  "download": "http://code.jquery.com/#jquery-cleanEventAttachment",
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/gdibble/jquery-cleanEventAttachment/blob/master/LICENSE"
+  }],
+  "author": {
+    "name": "Gabriel Dibble",
+    "url":  "https://github.com/gdibble/"
+  },
+  "contributors": [
+    "gdibble"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "jshintConfig": {
+    "global": [ "jQuery" ]
+  }
+}
